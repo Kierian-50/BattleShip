@@ -1,0 +1,5 @@
+fregate : 1:0:VERTICAL:
+fregate : 2:4: HORIZONTAL:
+patrouilleur : -4:3: HORIZONTAL:
+sous-marin : 7:7:VERTICAL:
+porte-avion : 0:4:error:

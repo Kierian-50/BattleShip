@@ -1,0 +1,6 @@
+porte-avion : 0:5:VERTICAL:
+fregate : 1:0:VERTICAL:
+patrouilleur : 7:7:HORIZONTAL:
+patrouilleur : 4:4:VERTICAL:
+sous-marin : 5:0:HORIZONTAL:
+

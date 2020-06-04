@@ -1,0 +1,7 @@
+10 : 10 :
+mode : HA :
+fregate : 3 :
+fregate : 3 :
+patrouilleur : 3 :
+sous-marin : 3 :
+porte-avion : 3 :

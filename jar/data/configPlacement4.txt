@@ -1,0 +1,4 @@
+patrouilleur : 2:4:HORIZONTAL:
+sous-marin : 3:2:HORIZONTAL:
+remorqueur : 3:0:HORIZONTAL:
+

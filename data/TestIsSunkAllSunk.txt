@@ -1,0 +1,2 @@
+fregate : 0:0:VERTICAL:
+fregate : 4:9: HORIZONTAL:

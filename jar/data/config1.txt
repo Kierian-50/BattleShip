@@ -1,0 +1,7 @@
+10 : 15 :
+mode : HH :
+porte-avion :5:
+fregate :4:
+fregate :4:
+patrouilleur :3:
+sous-marin :2: 
